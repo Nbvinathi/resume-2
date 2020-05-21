@@ -27,3 +27,4 @@
 Name|Roll Number
 ---|---
 Bhanu Vinathi|262
+Uma|248
