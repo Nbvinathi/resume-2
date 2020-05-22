@@ -28,3 +28,12 @@ Name|Roll Number
 ---|---
 Bhanu Vinathi|262
 Uma|249
+
+---
+Welcome to the session
+---
+
+---python---
+
+https://github.githubassets.com/images/icons/emoji/unicode/1f601.png
+
