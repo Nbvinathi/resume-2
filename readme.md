@@ -37,3 +37,10 @@ Welcome to the session
 
 https://github.githubassets.com/images/icons/emoji/unicode/1f601.png
 
+def iseven(num):
+ if num%2==0:
+  return true
+ else:
+  return false
+
+This is a note message
